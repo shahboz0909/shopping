@@ -1,0 +1,30 @@
+.form__input {
+  outline: none;
+}
+.push__btn {
+  width: 200px;
+  height: 40px;
+}
+.push__btn:hover {
+  background-color: aqua;
+}
+
+.wrapper__btn {
+  width: 200px;
+  height: 40px;
+}
+.wrapper__btn:hover {
+  background-color: aqua;
+}
+
+
+.form__input {
+  width: 200px;
+  height: 40px;
+  text-align: center;
+}
+
+output {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
