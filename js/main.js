@@ -18,7 +18,7 @@ elBtn.addEventListener ("click", function(evt) {
   
   for (let shop of arrowNan) {
   create = document.createElement("li");
-  create.textContent =`Maxsulot nomi - ${shop}`;
+  create.textContent =`Maxsulot nomi : ${shop}`;
   create.style = "color: red; font-size: 30px;"
   }
   elList.append(create);

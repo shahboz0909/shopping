@@ -31,3 +31,8 @@ output {
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+.output__list li {
+  margin-top: 20px;
+  border-bottom: 3px solid darkred;
+}
